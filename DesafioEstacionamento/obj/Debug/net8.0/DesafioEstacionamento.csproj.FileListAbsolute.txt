@@ -1,0 +1,15 @@
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.exe
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.deps.json
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.runtimeconfig.json
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.dll
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.pdb
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.sourcelink.json
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.dll
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\refint\DesafioEstacionamento.dll
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.pdb
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.genruntimeconfig.cache
+C:\Users\bselh\OneDrive\Área de Trabalho\DIO\CURSO_DOTNET\dio-desafios-dotnet\DesafioEstacionamento\obj\Debug\net8.0\ref\DesafioEstacionamento.dll
