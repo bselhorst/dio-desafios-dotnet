@@ -1,0 +1,15 @@
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\bin\Debug\net8.0\DesafioSistemaDeHospedagem.exe
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\bin\Debug\net8.0\DesafioSistemaDeHospedagem.deps.json
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\bin\Debug\net8.0\DesafioSistemaDeHospedagem.runtimeconfig.json
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\bin\Debug\net8.0\DesafioSistemaDeHospedagem.dll
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\bin\Debug\net8.0\DesafioSistemaDeHospedagem.pdb
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.sourcelink.json
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.dll
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\refint\DesafioSistemaDeHospedagem.dll
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.pdb
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\DesafioSistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioSistemaDeHospedagem\obj\Debug\net8.0\ref\DesafioSistemaDeHospedagem.dll
