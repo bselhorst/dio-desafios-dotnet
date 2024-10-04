@@ -1,0 +1,15 @@
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\bin\Debug\net8.0\DesafioAbstraindoCelularComPOO.exe
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\bin\Debug\net8.0\DesafioAbstraindoCelularComPOO.deps.json
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\bin\Debug\net8.0\DesafioAbstraindoCelularComPOO.runtimeconfig.json
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\bin\Debug\net8.0\DesafioAbstraindoCelularComPOO.dll
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\bin\Debug\net8.0\DesafioAbstraindoCelularComPOO.pdb
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.AssemblyInfoInputs.cache
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.AssemblyInfo.cs
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.csproj.CoreCompileInputs.cache
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.sourcelink.json
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.dll
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\refint\DesafioAbstraindoCelularComPOO.dll
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.pdb
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\DesafioAbstraindoCelularComPOO.genruntimeconfig.cache
+C:\Users\IEPTEC Dev\Desktop\DIO\dotnet\dio-desafios-dotnet\DesafioAbstraindoCelularComPOO\obj\Debug\net8.0\ref\DesafioAbstraindoCelularComPOO.dll
