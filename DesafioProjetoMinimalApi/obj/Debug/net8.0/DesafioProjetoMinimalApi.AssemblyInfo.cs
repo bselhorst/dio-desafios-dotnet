@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioProjetoMinimalApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2cc1428994743a2fd6018b505aeede67e45fe3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e6405fccc63ab87a9532ef1e44949593c605716")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioProjetoMinimalApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioProjetoMinimalApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
