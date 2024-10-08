@@ -1,4 +1,4 @@
-namespace DesafioProjetoMinialAPI.DTOs;
+namespace DesafioProjetoMinimalAPI.DTOs;
 public class LoginDTO
 {
     public string Email { get; set; } = default!;

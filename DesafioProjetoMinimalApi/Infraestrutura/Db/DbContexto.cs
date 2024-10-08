@@ -1,7 +1,7 @@
-using DesafioProjetoMinialAPI.Dominio.Entidades;
+using DesafioProjetoMinimalAPI.Dominio.Entidades;
 using Microsoft.EntityFrameworkCore;
 
-namespace DesafioProjetoMinialAPI.Infraesturura.Db;
+namespace DesafioProjetoMinimalAPI.Infraesturura.Db;
 
 public class DbContexto : DbContext
 {

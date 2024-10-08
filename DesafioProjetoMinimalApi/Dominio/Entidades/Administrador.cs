@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace DesafioProjetoMinialAPI.Dominio.Entidades;
+namespace DesafioProjetoMinimalAPI.Dominio.Entidades;
 public class Administrador
 {
     [Key]
