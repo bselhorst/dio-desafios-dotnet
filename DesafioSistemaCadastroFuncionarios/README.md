@@ -1,0 +1,1 @@
+Eu acho que essa parte do Azure deveria ser um curso a parte fora desse bootcamp.
